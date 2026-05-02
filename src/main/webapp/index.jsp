@@ -19,9 +19,9 @@
 	&nbsp; &nbsp; &nbsp;
 	<a href="empList"> List Employees</a> 
 	&nbsp; &nbsp; &nbsp;
-	<a href="empProjForm"> Add Emp - Proj</a> 
+	<a href="empProjForm"> Add Employess - Project</a> 
 	&nbsp; &nbsp; &nbsp;
-	<a href="empProjList"> List Emp with Proj</a> 
+	<a href="empProjList"> List Employess with Project</a> 
 	&nbsp; &nbsp; &nbsp;
 </body>
 </html>
